@@ -1,0 +1,15 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+.project
+.classpath
+.settings
+bin/
+gradle/
+
+src/main/antlr/ru/dm_ushakov/mycalculator/parser/antlr/*.java
+src/main/antlr/ru/dm_ushakov/mycalculator/parser/antlr/*.interp
+src/main/antlr/ru/dm_ushakov/mycalculator/parser/antlr/*.tokens
